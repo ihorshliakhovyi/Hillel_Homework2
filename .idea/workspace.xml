@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0a969a8-03f9-4217-9902-81ddb7e6ee11" name="Changes" comment="Init commmit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Homework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Lesson2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Lesson2_IfStatement_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Lesson2_Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesson2/Homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lesson2/Homework2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +21,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ihorshliakhovyi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ihorshliakhovyi/Hillel_Homework2.git",
+    "accountId": "e08aff56-b772-43de-9052-9cf621016c96"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2fRzXZs5ZJiEsGYvhjgNKhn7PzE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -36,17 +49,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Homework2.executor": "Run",
     "Application.Lesson2.executor": "Run",
     "Application.Lesson2_IfStatement.executor": "Run",
     "Application.Lesson2_Matrix.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Admin/IdeaProjects/Homework2/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lesson2_IfStatement_else">
+  <component name="RunManager" selected="Application.Homework2">
+    <configuration name="Homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Homework2" />
+      <module name="Homework2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson2.Lesson2" />
       <module name="Homework2" />
@@ -88,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Homework2" />
         <item itemvalue="Application.Lesson2_IfStatement_else" />
         <item itemvalue="Application.Lesson2_Matrix" />
         <item itemvalue="Application.Lesson2" />
